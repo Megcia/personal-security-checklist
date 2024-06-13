@@ -360,82 +360,82 @@ Windows ve OS X kullanımı kolay ve kullanışlı olsa da, ikisi de güvenlik a
 - [Dosya Şifreleme](https://github.com/Lissy93/awesome-privacy#file-encryption)
 
 
-## Smart Home
+## Akıllı Ev
 
-Home assistants (such as Google Home, Alexa and Siri) and other internet connected devices collect large amounts of personal data (including voice samples, location data, home details and logs of all interactions). Since you have limited control on what is being collected, how it's stored, and what it will be used for, this makes it hard to recommend any consumer smart-home products to anyone who cares about privacy and security.
-Security vs Privacy: There are many smart devices on the market that claim to increase the security of your home while being easy and convenient to use (Such as Smart Burglar Alarms, Internet Security Cameras, Smart Locks and Remote access Doorbells to name a few). These devices may appear to make security easier, but there is a trade-off in terms of privacy: as they collect large amounts of personal data, and leave you without control over how this is stored or used. The security of these devices is also questionable, since many of them can be (and are being) hacked, allowing an intruder to bypass detection with minimum effort.
-The most privacy-respecting option, would be to not use "smart" internet-connected devices in your home, and not to rely on a security device that requires an internet connection. But if you do, it is important to fully understand the risks of any given product, before buying it. Then adjust settings to increase privacy and security. The following checklist will help mitigate the risks associated with internet-connected home devices.
+Ev asistanları (Google Home, Alexa ve Siri gibi) ve diğer internete bağlı cihazlar büyük miktarda kişisel veri toplarlar (ses örnekleri, konum verileri, ev detayları ve tüm etkileşimlerin günlükleri dahil). Ne toplandığı, nasıl depolandığı ve ne için kullanılacağı konusunda sınırlı kontrolünüz olduğu için, gizlilik ve güvenlik konusunda endişe duyan herkese tüketici akıllı ev ürünlerini önermek zordur.
+Güvenlik ve Gizlilik: Piyasada evinizin güvenliğini artırmayı iddia eden birçok akıllı cihaz bulunmaktadır ve bunlar kullanımı kolay ve pratik olmalarıyla dikkat çekerler (Akıllı Hırsız Alarmı, İnternet Güvenlik Kameraları, Akıllı Kilitler ve Uzaktan Erişimli Kapı Zilleri gibi). Bu cihazlar güvenliği artırmak gibi görünebilir, ancak gizlilik açısından bir takas söz konusudur: büyük miktarda kişisel veri toplarlar ve bu verilerin nasıl depolanacağı veya kullanılacağı konusunda size kontrol bırakmazlar. Ayrıca, bu cihazların güvenliği de sorgulanabilir çünkü birçoğu (ve kullanılmaktadır) hacklenebilir, bu da bir saldırganın tespiti minimum çaba ile atlatabilmesine olanak tanır.
+En gizliliği koruyan seçenek, evinizde "akıllı" internete bağlı cihazları kullanmamak ve internet bağlantısı gerektiren bir güvenlik cihazına güvenmemektir. Ancak, eğer kullanıyorsanız, ürünün risklerini tam olarak anlamak ve satın almadan önce ayarları düzenlemek önemlidir. Ardından, gizliliği ve güvenliği artırmak için ayarları yapılandırabilirsiniz. Aşağıdaki kontrol listesi, internete bağlı ev cihazlarıyla ilişkilendirilen riskleri azaltmaya yardımcı olacaktır.
 
-**Security** | **Priority** | **Details and Hints**
+**Güvenlik** | **Öncelik** | **Detaylar ve İpuçları**
 --- | --- | ---
-**Rename devices to not specify brand/model** | Essential | Change default device names to something generic to prevent targeted attacks by obscuring brand or model information.
-**Disable microphone and camera when not in use** | Essential | Use hardware switches to turn off microphones and cameras on smart devices to protect against accidental recordings or targeted access.
-**Understand what data is collected, stored and transmitted** | Essential | Research and ensure comfort with the data handling practices of smart home devices before purchase, avoiding devices that share data with third parties.
-**Set privacy settings, and opt out of sharing data with third parties** | Essential | Adjust app settings for strictest privacy controls and opt-out of data sharing with third parties wherever possible.
-**Don't link your smart home devices to your real identity** | Essential | Use anonymous usernames and passwords, avoiding sign-up/log-in via social media or other third-party services to maintain privacy.
-**Keep firmware up-to-date** | Essential | Regularly update smart device firmware to apply security patches and enhancements.
-**Protect your Network** | Essential | Secure your home WiFi and network to prevent unauthorized access to smart devices.
-**Be wary of wearables** | Optional | Consider the extensive data collection capabilities of wearable devices and their implications for privacy.
-**Don't connect your home's critical infrastructure to the Internet** | Optional | Evaluate the risks of internet-connected thermostats, alarms, and detectors due to potential remote access by hackers.
-**Mitigate Alexa/ Google Home Risks** | Optional | Consider privacy-focused alternatives like [Mycroft](https://awesome-privacy.xyz/smart-home-and-iot/voice-assistants/mycroft) or use Project Alias to prevent idle listening by voice-activated assistants.
-**Monitor your home network closely** | Optional | Use tools like FingBox or router features to monitor for unusual network activity.
-**Deny Internet access where possible** | Advanced | Use firewalls to block internet access for devices that don't need it, limiting operation to local network use.
-**Assess risks** | Advanced | Consider the privacy implications for all household members and adjust device settings for security and privacy, such as disabling devices at certain times.
+**Cihazları Marka/Model Belirtmeyecek Şekilde Yeniden Adlandırın** | Esas | Hedeflenmiş saldırıları engellemek için varsayılan cihaz isimlerini, marka veya model bilgisini gizleyecek şekilde genel bir şeye değiştirin.
+**Mikrofon ve kamerayı kullanılmadığı zamanlarda devre dışı bırakın** | Temel | Kazara kayıtlara veya hedeflenmiş erişimlere karşı korunmak için akıllı cihazlardaki mikrofonları ve kameraları kapatmak için donanım anahtarları kullanın.
+**Toplanan, depolanan ve iletilen verileri anlayın** | Temel | Satın almadan önce akıllı ev cihazlarının veri işleme uygulamaları hakkında araştırma yapın ve bu uygulamalardan rahatsız olmamak için uygunluğunu sağlayın, üçüncü taraflarla veri paylaşan cihazlardan kaçının.
+**Gizlilik ayarlarını belirleyin ve üçüncü taraflarla veri paylaşımını reddedin** | Temel | Uygulama ayarlarını en sıkı gizlilik kontrollerine göre ayarlayın ve mümkün olduğunca üçüncü taraflarla veri paylaşımını reddedin.
+**Akıllı ev cihazlarınızı gerçek kimliğinizle ilişkilendirmeyin** | Temel | Gizliliği korumak için anonim kullanıcı adları ve şifreleri kullanın, gizliliği korumak için sosyal medya veya diğer üçüncü taraf hizmetleri aracılığıyla kayıt olmayın veya oturum açmayın.
+**Firmware güncel tutun** | Temel | Akıllı cihaz yazılımlarını düzenli olarak güncelleyerek güvenlik yamalarını ve iyileştirmeleri uygulayın.
+**Ağınızı koruyun** | Temel | Ev WiFi ve ağınızı güvence altına alarak akıllı cihazlara izinsiz erişimi önleyin.
+**Takılabilir cihazlardan kaçının** | İsteğe Bağlı | Takılabilir cihazların kapsamlı veri toplama yeteneklerini ve gizlilik açısından olası etkilerini düşünün.
+**Evdeki kritik altyapıyı İnternet'e bağlamayın** | İsteğe Bağlı | İnternet bağlantılı termostatlar, alarm sistemleri ve dedektörlerin potansiyel olarak uzaktan erişim risklerini değerlendirin.
+**Alexa/Google Home Risklerini Azaltın** | İsteğe Bağlı | [Mycroft](https://awesome-privacy.xyz/smart-home-and-iot/voice-assistants/mycroft) gibi gizlilik odaklı alternatifleri veya sesle çalışan asistanların beklemesini engellemek için Project Alias gibi çözümleri düşünün.
+**Ev ağınızı yakından izleyin** | İsteğe Bağlı | FingBox gibi araçları veya yönlendirici özelliklerini kullanarak anormal ağ etkinliğini izleyin.
+**İnternet erişimini mümkün olduğunca reddedin** | İleri Düzey | İnternete ihtiyaç duymayan cihazlar için internet erişimini engellemek için güvenlik duvarları kullanın ve işlemi yerel ağ kullanımına sınırlayın.
+**Riskleri değerlendirin** | İleri Düzey | Tüm ev üyeleri için gizlilik sonuçlarını göz önünde bulundurun ve güvenlik ve gizlilik için cihaz ayarlarını, örneğin belirli zamanlarda cihazları devre dışı bırakarak, ayarlayın.
 
-### Recommended Software
-- [Home Automation](https://github.com/Lissy93/awesome-privacy#home-automation)
-- [AI Voice Assistants](https://github.com/Lissy93/awesome-privacy#ai-voice-assistants)
+### Tavsiye Edilen Yazılımlar
+- [Ev Otomasyonu](https://github.com/Lissy93/awesome-privacy#home-automation)
+- [Yapay Zeka Ses Asistanları](https://github.com/Lissy93/awesome-privacy#ai-voice-assistants)
 
 
-## Personal Finance
+## Kişisel Finans
 
-Credit card fraud is the most common form of identity theft (with [133,015 reports in the US in 2017 alone](https://www.experian.com/blogs/ask-experian/identity-theft-statistics/)), and a total loss of $905 million, which was a 26% increase from the previous year. The with a median amount lost per person was $429 in 2017. It's more important than ever to take basic steps to protect yourself from falling victim
-Note about credit cards: Credit cards have technological methods in place to detect and stop some fraudulent transactions. Major payment processors implement this, by mining huge amounts of data from their card holders, in order to know a great deal about each persons spending habits. This data is used to identify fraud, but is also sold onto other data brokers. Credit cards are therefore good for security, but terrible for data privacy.
+Kredi kartı dolandırıcılığı, kimlik hırsızlığının en yaygın formudur ([yalnızca 2017'de ABD'de 133.015 rapor](https://www.experian.com/blogs/ask-experian/identity-theft-statistics/) edilmiştir), ve toplamda 905 milyon dolarlık bir kayıp yaşanmıştır, bu önceki yıla göre %26 artıştır. Bir kişi başına düşen medyan kayıp miktarı 2017'de 429 dolardır. Kendinizi kurban olmaktan korumak için temel adımlar atmamız daha önemlidir.
+Kredi kartları hakkında not: Kredi kartlarında bazı sahtekârlık işlemlerini tespit etmek ve durdurmak için teknolojik yöntemler bulunmaktadır. Büyük ödeme işlemcileri bunu uygular, kart sahiplerinden büyük miktarda veri toplayarak her bir kişinin harcama alışkanlıkları hakkında çok şey bilirler. Bu veri, sahtekârlığı tespit etmek için kullanılır, ancak aynı zamanda diğer veri aracılarına satılır. Dolayısıyla kredi kartları güvenlik açısından iyi olsa da, veri gizliliği açısından korkunçtur.
 
-**Security** | **Priority** | **Details and Hints**
+**Güvenlik** | **Öncelik** | **Detaylar ve İpuçları**
 --- | --- | ---
-**Sign up for Fraud Alerts and Credit Monitoring** | Essential | Enable fraud alerts and credit monitoring through Experian, TransUnion, or Equifax to be alerted of suspicious activity.
-**Apply a Credit Freeze** | Essential | Prevent unauthorized credit inquiries by freezing your credit through Experian, TransUnion, and Equifax.
-**Use Virtual Cards** | Optional | Utilize virtual card numbers for online transactions to protect your real banking details. Services like [Privacy.com](https://awesome-privacy.xyz/finance/virtual-credit-cards/privacy.com) and [MySudo](https://awesome-privacy.xyz/finance/virtual-credit-cards/mysudo) offer such features.
-**Use Cash for Local Transactions** | Optional | Pay with [Cash](https://awesome-privacy.xyz/finance/other-payment-methods/cash) for local and everyday purchases to avoid financial profiling by institutions.
-**Use Cryptocurrency for Online Transactions** | Optional | Opt for privacy-focused cryptocurrencies like [Monero](https://awesome-privacy.xyz/finance/cryptocurrencies/monero) for online transactions to maintain anonymity. Use cryptocurrencies wisely to ensure privacy.
-**Store Crypto Securely** | Advanced | Securely store cryptocurrencies using offline wallet generation, hardware wallets like [Trezor](https://awesome-privacy.xyz/finance/crypto-wallets/trezor) or [ColdCard](https://awesome-privacy.xyz/finance/crypto-wallets/coldcard), or consider long-term storage solutions like [CryptoSteel](https://awesome-privacy.xyz/finance/crypto-wallets/cryptosteel).
-**Buy Crypto Anonymously** | Advanced | Purchase cryptocurrencies without linking to your identity through services like [LocalBitcoins](https://awesome-privacy.xyz/finance/crypto-exchanges/localbitcoins), [Bisq](https://awesome-privacy.xyz/finance/crypto-exchanges/bisq), or Bitcoin ATMs.
-**Tumble/ Mix Coins** | Advanced | Use a bitcoin mixer or CoinJoin before converting Bitcoin to currency to obscure transaction trails.
-**Use an Alias Details for Online Shopping** | Advanced | For online purchases, consider using alias details, forwarding email addresses, VOIP numbers, and secure delivery methods to protect your identity.
-**Use alternate delivery address** | Advanced | Opt for deliveries to non-personal addresses such as PO Boxes, forwarding addresses, or local pickup locations to avoid linking purchases directly to you.
+**Dolandırıcılık Uyarılarına ve Kredi İzlemeye Kaydolun** | Temel | Şüpheli faaliyetlerden haberdar olmak için Experian, TransUnion veya Equifax aracılığıyla dolandırıcılık uyarılarını ve kredi izleme hizmetini etkinleştirin.
+**Kredi Dondurması Uygulayın** | Temel | Experian, TransUnion ve Equifax aracılığıyla kredi dondurarak izinsiz kredi sorgularını önleyin.
+**Sanal Kartlar Kullanın** | İsteğe Bağlı | Gerçek bankacılık bilgilerinizi korumak için çevrimiçi işlemler için sanal kart numaralarını kullanın. [Privacy.com](https://awesome-privacy.xyz/finance/virtual-credit-cards/privacy.com) ve [MySudo](https://awesome-privacy.xyz/finance/virtual-credit-cards/mysudo) gibi hizmetler bu özelliği sunar.
+**Yerel İşlemler İçin Nakit Kullanın** | İsteğe Bağlı | Yerel ve günlük alışverişlerde finansal profil oluşturmayı önlemek için [Nakit](https://awesome-privacy.xyz/finance/other-payment-methods/cash) kullanın.
+**Çevrimiçi İşlemler İçin Kripto Para Kullanın** | İsteğe Bağlı | Çevrimiçi işlemler için [Monero](https://awesome-privacy.xyz/finance/cryptocurrencies/monero) gibi gizliliğe odaklanmış kripto paraları tercih ederek anonimliği koruyun. Gizliliği sağlamak için kripto paraları dikkatli kullanın.
+**Kripto Paraları Güvenli Bir Şekilde Saklayın** | İleri | Çevrimdışı cüzdan oluşturma, [Trezor](https://awesome-privacy.xyz/finance/crypto-wallets/trezor) veya [ColdCard](https://awesome-privacy.xyz/finance/crypto-wallets/coldcard) gibi donanım cüzdanları kullanarak kripto paraları güvenli bir şekilde saklayın veya [CryptoSteel](https://awesome-privacy.xyz/finance/crypto-wallets/cryptosteel) gibi uzun vadeli saklama çözümlerini düşünün.
+**Kripto Para Satın Almayı Anonim Hale Getirin** | İleri | [LocalBitcoins](https://awesome-privacy.xyz/finance/crypto-exchanges/localbitcoins), [Bisq](https://awesome-privacy.xyz/finance/crypto-exchanges/bisq) veya Bitcoin ATM'leri gibi hizmetler aracılığıyla kimliğinizle ilişkilendirmeden kripto paralar satın alın.
+**Kripto Paraları Karıştırın** | İleri | Bitcoin'i para birimine çevirmeden önce bir bitcoin karıştırıcısı veya CoinJoin kullanarak işlem izlerini gizleyin.
+**Çevrimiçi Alışveriş İçin Takma Bilgiler Kullanın** | İleri | Çevrimiçi alışverişler için takma bilgiler, yönlendirilen e-posta adresleri, VOIP numaraları ve güvenli teslimat yöntemleri kullanarak kimliğinizi koruyun.
+**Alternatif Teslimat Adresi Kullanın** | İleri | PO Box'lar, yönlendirme adresleri veya yerel teslimat noktaları gibi kişisel olmayan adreslere teslimat yapmayı tercih ederek alımlarınızı doğrudan sizinle ilişkilendirmeyin.
 
-### Recommended Software
-- [Virtual Credit Cards](https://github.com/Lissy93/awesome-privacy#virtual-credit-cards)
-- [Cryptocurrencies](https://github.com/Lissy93/awesome-privacy#cryptocurrencies)
-- [Crypto Wallets](https://github.com/Lissy93/awesome-privacy#crypto-wallets)
-- [Crypto Exchanges](https://github.com/Lissy93/awesome-privacy#crypto-exchanges)
-- [Other Payment Methods](https://github.com/Lissy93/awesome-privacy#other-payment-methods)
-- [Budgeting Tools](https://github.com/Lissy93/awesome-privacy#budgeting-tools)
+### Tavsiye Edilen Yazılımlar
+- [Sanal Kredi Kartları](https://github.com/Lissy93/awesome-privacy#virtual-credit-cards)
+- [Kripto Paralar](https://github.com/Lissy93/awesome-privacy#cryptocurrencies)
+- [Kripto Cüzdanlar](https://github.com/Lissy93/awesome-privacy#crypto-wallets)
+- [Kripto Borsaları](https://github.com/Lissy93/awesome-privacy#crypto-exchanges)
+- [Diğer Ödeme Yöntemleri](https://github.com/Lissy93/awesome-privacy#other-payment-methods)
+- [Bütçe Takip Araçları](https://github.com/Lissy93/awesome-privacy#budgeting-tools)
 
 
-## Human Aspect
+## İnsan Faktörü
 
-Many data breaches, hacks and attacks are caused by human error. The following list contains steps you should take, to reduce the risk of this happening to you. Many of them are common sense, but it's worth takin note of.
+Birçok veri ihlali, hack ve saldırı insan hatası nedeniyle gerçekleşir. Aşağıdaki liste, bunun size olmasını önlemek için almanız gereken adımları içerir. Bunların birçoğu genelde mantıklı olsa da, dikkate alınmaya değerdir.
 
-**Security** | **Priority** | **Details and Hints**
+**Güvenlik** | **Öncelik** | **Detaylar ve İpuçları**
 --- | --- | ---
-**Verify Recipients** | Essential | Emails can be easily spoofed. Verify the sender's authenticity, especially for sensitive actions, and prefer entering URLs manually rather than clicking links in emails.
-**Don't Trust Your Popup Notifications** | Essential | Fake pop-ups can be deployed by malicious actors. Always check the URL before entering any information on a popup.
-**Never Leave Device Unattended** | Essential | Unattended devices can be compromised even with strong passwords. Use encryption and remote erase features like Find My Phone for lost devices.
-**Prevent Camfecting** | Essential | Protect against camfecting by using webcam covers and microphone blockers. Mute home assistants when not in use or discussing sensitive matters.
-**Stay protected from shoulder surfers** | Essential | Use privacy screens on laptops and mobiles to prevent others from reading your screen in public spaces.
-**Educate yourself about phishing attacks** | Essential | Be cautious of phishing attempts. Verify URLs, context of received messages, and employ good security practices like using 2FA and not reusing passwords.
-**Watch out for Stalkerware** | Essential | Be aware of stalkerware installed by acquaintances for spying. Look out for signs like unusual battery usage and perform factory resets if suspected.
-**Install Reputable Software from Trusted Sources** | Essential | Only download software from legitimate sources and check files with tools like [Virus Total](https://awesome-privacy.xyz/security-tools/online-tools/virus-total) before installation.
-**Store personal data securely** | Essential | Ensure all personal data on devices or in the cloud is encrypted to protect against unauthorized access.
-**Obscure Personal Details from Documents** | Essential | When sharing documents, obscure personal details with opaque rectangles to prevent information leakage.
-**Do not assume a site is secure, just because it is `HTTPS`** | Essential | HTTPS does not guarantee a website's legitimacy. Verify URLs and exercise caution with personal data.
-**Use Virtual Cards when paying online** | Optional | Use virtual cards for online payments to protect your banking details and limit transaction risks.
-**Review application permissions** | Optional | Regularly review and manage app permissions to ensure no unnecessary access to sensitive device features.
-**Opt-out of public lists** | Optional | Remove yourself from public databases and marketing lists to reduce unwanted contacts and potential risks.
-**Never Provide Additional PII When Opting-Out** | Optional | Do not provide additional personal information when opting out of data services to avoid further data collection.
-**Opt-out of data sharing** | Optional | Many apps and services default to data sharing settings. Opt out to protect your data from being shared with third parties.
+**Alıcıları Doğrulayın** | Temel | E-postalar kolayca sahte olabilir. Özellikle hassas işlemler için gönderenin kimliğini doğrulayın ve e-postalardaki bağlantılara tıklamak yerine URL'leri manuel olarak girin.
+**Popup Bildirimlerine Güvenmeyin** | Temel | Sahte popuplar kötü niyetli kişiler tarafından kullanılabilir. Bir popup'ta herhangi bir bilgi girmeden önce URL'yi kontrol edin.
+**Cihazı Gözetimsiz Bırakmayın** | Temel | Gözetimsiz bırakılan cihazlar güçlü şifrelerle bile tehlikeye atılabilir. Kaybolan cihazlar için Şimdi Bul gibi şifreleme ve uzaktan silme özelliklerini kullanın.
+**Kameraların Kullanımını Engelleme** | Temel | Kamera kapakları ve mikrofon blokerleri kullanarak kameralara karşı korunun. Ev asistanlarını kullanmadığınız zamanlarda veya hassas konuları tartışmadığınız zamanlarda sessize alın.
+**Omuz Sörfçülerinden Korunun** | Temel | Halka açık alanlarda ekranınızı okuyanları engellemek için dizüstü bilgisayarlar ve mobil cihazlarda gizlilik ekranları kullanın.
+**Balık Avı Saldırılarını Tanıyın** | Temel | Balık avı girişimlerinden şüphelenin. URL'leri doğrulayın, alınan mesajların bağlamını kontrol edin ve 2FA gibi iyi güvenlik uygulamalarını kullanın ve şifreleri yeniden kullanmayın.
+**Stalkerware'lere Dikkat Edin** | Temel | Arkadaşlar tarafından casusluk için yüklenen stalkerware'lere dikkat edin. Anormal pil kullanımı gibi işaretlere dikkat edin ve şüphelenilen durumlarda fabrika ayarlarına sıfırlama yapın.
+**Güvenilir Kaynaklardan Güvenilir Yazılımlar Kurun** | Temel | Yazılımları yalnızca meşru kaynaklardan indirin ve dosyaları [Virus Total](https://awesome-privacy.xyz/security-tools/online-tools/virus-total) gibi araçlarla kontrol edin.
+**Kişisel Verileri Güvenli Bir Şekilde Saklayın** | Temel | Cihazlarda veya bulutta bulunan tüm kişisel verilerin şifrelenmiş olduğundan emin olun, yetkisiz erişime karşı koruma sağlar.
+**Belgelerde Kişisel Detayları Gizleyin** | Temel | Belgeleri paylaşırken, kişisel detayları opak dikdörtgenlerle gizleyerek bilgi sızıntısını önleyin.
+**Bir Site'nin Güvende Olduğunu Varsaymayın, Sadece `HTTPS` olduğu için** | Temel | HTTPS bir web sitesinin meşruiyetini garanti etmez. URL'leri doğrulayın ve kişisel verilerle dikkatli olun.
+**Online Ödemelerde Sanal Kartlar Kullanın** | İsteğe Bağlı | Bankacılık detaylarınızı korumak ve işlem risklerini sınırlamak için online ödemelerde sanal kartlar kullanın.
+**Uygulama İzinlerini Gözden Geçirin** | İsteğe Bağlı | Düzenli olarak uygulama izinlerini gözden geçirin ve yönetin, hassas cihaz özelliklerine gereksiz erişimi önlemek için.
+**Halka Açık Listelerden Çıkın** | İsteğe Bağlı | Kendinizi halka açık veritabanlarından ve pazarlama listelerinden çıkararak istenmeyen iletişimleri ve potansiyel riskleri azaltın.
+**Veri Hizmetlerinden Opt-Out Yaparken Asla Ek PII Sağlamayın** | İsteğe Bağlı | Veri hizmetlerinden çıkarken daha fazla kişisel bilgi sağlamayın, daha fazla veri toplamaktan kaçının.
+**Veri Paylaşımından Opt-Out Yapın** | İsteğe Bağlı | Birçok uygulama ve hizmet, veri paylaşım ayarlarını varsayılan olarak belirler. Verilerinizin üçüncü taraflarla paylaşılmasını önlemek için opt-out yapın.
 **Review and update social media privacy** | Optional | Regularly check and update your social media settings due to frequent terms updates that may affect your privacy settings.
 **Compartmentalize** | Advanced | Keep different areas of digital activity separate to limit data exposure in case of a breach.
 **WhoIs Privacy Guard** | Advanced | Use WhoIs Privacy Guard for domain registrations to protect your personal information from public searches.
