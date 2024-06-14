@@ -497,7 +497,7 @@ Güçlü kimlik doğrulama, şifrelenmiş cihazlar, güncellenmiş yazılım ve 
 ----
 ## Duyuru
 
-*Önemli Duyuru : Bu metin tamamen GPT-3.5 tarafından çevrilmiştir ve tam anlamıyla gerçeği yansıtmamış olabilir. Yazım hataları kesinlikle bulunabilir, lütfen sadece rehber amaçlı olarak kendi kontrolünüzle kullanın.
+*Not: Önemli Duyuru bu metin tamamen GPT-3.5 tarafından çevrilmiştir ve tam anlamıyla gerçeği yansıtmamış olabilir. Yazım hataları kesinlikle bulunabilir, lütfen sadece rehber amaçlı olarak kendi kontrolünüzle kullanın.
 
 ## Notlar
 
