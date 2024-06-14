@@ -436,45 +436,43 @@ Birçok veri ihlali, hack ve saldırı insan hatası nedeniyle gerçekleşir. A�
 **Halka Açık Listelerden Çıkın** | İsteğe Bağlı | Kendinizi halka açık veritabanlarından ve pazarlama listelerinden çıkararak istenmeyen iletişimleri ve potansiyel riskleri azaltın.
 **Veri Hizmetlerinden Opt-Out Yaparken Asla Ek PII Sağlamayın** | İsteğe Bağlı | Veri hizmetlerinden çıkarken daha fazla kişisel bilgi sağlamayın, daha fazla veri toplamaktan kaçının.
 **Veri Paylaşımından Opt-Out Yapın** | İsteğe Bağlı | Birçok uygulama ve hizmet, veri paylaşım ayarlarını varsayılan olarak belirler. Verilerinizin üçüncü taraflarla paylaşılmasını önlemek için opt-out yapın.
-**Review and update social media privacy** | Optional | Regularly check and update your social media settings due to frequent terms updates that may affect your privacy settings.
-**Compartmentalize** | Advanced | Keep different areas of digital activity separate to limit data exposure in case of a breach.
-**WhoIs Privacy Guard** | Advanced | Use WhoIs Privacy Guard for domain registrations to protect your personal information from public searches.
-**Use a forwarding address** | Advanced | Use a PO Box or forwarding address for mail to prevent companies from knowing your real address, adding a layer of privacy protection.
-**Use anonymous payment methods** | Advanced | Opt for anonymous payment methods like cryptocurrencies to avoid entering identifiable information online.
+**Sosyal Medya Gizliliğini İnceleyin ve Güncelleyin** | **İsteğe Bağlı** | Sosyal medya ayarlarınızı düzenli olarak kontrol edin ve güncelleyin, çünkü sık sık yapılan hüküm güncellemeleri gizlilik ayarlarınızı etkileyebilir.
+**Bölütleme** | **Gelişmiş** | Dijital aktivitelerin farklı alanlarını ayırarak, bir ihlal durumunda veri maruziyetini sınırlayın.
+**WhoIs Gizlilik Koruması** | **Gelişmiş** | Kişisel bilgilerinizi genel aramalardan korumak için alan adı kayıtları için WhoIs Gizlilik Koruması kullanın.
+**Yönlendirme Adresi Kullanın** | **Gelişmiş** | Posta kutusu veya yönlendirme adresi kullanarak postalarınızda gerçek adresinizi saklayarak, gizlilik korumasına bir katman ekleyin.
+**Anonim Ödeme Yöntemleri Kullanın** | **Gelişmiş** | Çevrimiçi tanımlanabilir bilgiler girmekten kaçınmak için kripto para gibi anonim ödeme yöntemlerini tercih edin.
 
 
-## Physical Security
+## Fiziksel Güvenlik
 
-Public records often include sensitive personal data (full name, date of birth, phone number, email, address, ethnicity etc), and are gathered from a range of sources (census records, birth/ death/ marriage certificates, voter registrants, marketing information, customer databases, motor vehicle records, professional/ business licenses and all court files in full detail). This sensitive personal information is [easy and legal to access](https://www.consumerreports.org/consumerist/its-creepy-but-not-illegal-for-this-website-to-provide-all-your-public-info-to-anyone/), which raises some [serious privacy concerns](https://privacyrights.org/resources/public-records-internet-privacy-dilemma) (identity theft, personal safety risks/ stalkers, destruction of reputations, dossier society)
+Kamu kayıtları genellikle hassas kişisel veriler içerir (tam ad, doğum tarihi, telefon numarası, e-posta, adres, etnisite vb.) ve nüfus kayıtları, doğum/ölüm/evlilik belgeleri, seçmen kayıtları, pazarlama bilgileri, müşteri veritabanları, motorlu taşıt kayıtları, mesleki/iş lisansları ve tüm mahkeme dosyaları gibi çeşitli kaynaklardan toplanır. Bu hassas kişisel bilgilere [kolay ve yasal bir şekilde erişim](https://www.consumerreports.org/consumerist/its-creepy-but-not-illegal-for-this-website-to-provide-all-your-public-info-to-anyone/) mümkündür, bu durum [ciddi gizlilik endişeleri](https://privacyrights.org/resources/public-records-internet-privacy-dilemma) doğurur (kimlik hırsızlığı, kişisel güvenlik riskleri/takipçiler, itibarın zarar görmesi, dosya toplumları).
 
-CCTV is one of the major ways that the corporations, individuals and the government tracks your movements. In London, UK the average person is caught on camera about 500 times per day. This network is continuing to grow, and in many cities around the world, facial recognition is being rolled out, meaning the state can know the identity of residents on the footage in real-time.
-Strong authentication, encrypted devices, patched software and anonymous web browsing may be of little use if someone is able to physically compromise you, your devices and your data. This section outlines some basic methods for physical security
+Kapalı Devre Televizyon Sistemi (CCTV), şirketlerin, bireylerin ve devletin hareketlerinizi takip ettiği başlıca yöntemlerden biridir. Londra, İngiltere'de bir ortalama insanın günlük olarak yaklaşık 500 kez kamera tarafından kaydedildiği bilinmektedir. Bu ağın büyümesi devam etmekte ve birçok şehirde yüz tanıma teknolojisinin kullanımı artmaktadır, bu da devletin görüntülerdeki kişilerin kimliğini gerçek zamanlı olarak bilmesini sağlar.
+Güçlü kimlik doğrulama, şifrelenmiş cihazlar, güncellenmiş yazılım ve anonim web taraması, fiziksel olarak sizin, cihazlarınızın ve verilerinizin tehlikeye atılabileceği durumlarda çok az fayda sağlayabilir. Bu bölüm, fiziksel güvenlik için temel yöntemleri açıklamaktadır.
 
-**Security** | **Priority** | **Details and Hints**
+**Güvenlik** | **Öncelik** | **Detaylar ve İpuçları**
 --- | --- | ---
-**Destroy Sensitive Documents** | Essential | Shred or redact sensitive documents before disposal to protect against
-identity theft and maintain confidentiality.
+**Hassas Belgeleri Yok Edin** | Temel | Kimlik hırsızlığına karşı koruma sağlamak ve gizliliği korumak için hassas belgeleri parçalayın veya sansüre edin.
 
-**Opt-Out of Public Records** | Essential | Contact people search websites to opt-out from listings that show persona
-information, using guides like Michael Bazzell's Personal Data Removal Workbook.
+**Kamu Kayıtlarından Çıkış Yapın** | Temel | Kişisel bilgilerinizi gösteren listelerden çıkmak için kişi arama web siteleri ile iletişime geçin. Michael Bazzell'ın Kişisel Veri Kaldırma Çalışma Kitabı gibi rehberlerden yararlanabilirsiniz.
 
-**Watermark Documents** | Essential | Add a watermark with the recipient's name and date to digital copies of
-personal documents to trace the source of a breach.
+**Belgelere Filigran Ekleyin** | Temel | Kişisel belgelerin dijital kopyalarına alıcının adı ve tarihi ile filigran ekleyerek ihlalin kaynağını takip edebilirsiniz.
 
-**Don't Reveal Info on Inbound Calls** | Essential | Only share personal data on calls you initiate and verify the recipient's phone number.
+**Gelen Aramalarda Bilgi Vermeyin** | Temel | Sadece başlattığınız aramalarda kişisel verilerinizi paylaşın ve alıcının telefon numarasını doğrulayın.
 
-**Stay Alert** | Essential | Be aware of your surroundings and assess potential risks in new environments.
-**Secure Perimeter** | Essential | Ensure physical security of locations storing personal info devices, minimizing external access and using intrusion detection systems.
-**Physically Secure Devices** | Essential | Use physical security measures like Kensington locks, webcam covers, and privacy screens for devices.
-**Keep Devices Out of Direct Sight** | Essential | Prevent devices from being visible from outside to mitigate risks from lasers and theft.
-**Protect your PIN** | Essential | Shield your PIN entry from onlookers and cameras, and clean touchscreens after use.
-**Check for Skimmers** | Essential | Inspect ATMs and public devices for skimming devices and tampering signs before use.
-**Protect your Home Address** | Optional | Use alternative locations, forwarding addresses, and anonymous payment methods to protect your home address.
-**Use a PIN, Not Biometrics** | Advanced | Prefer PINs over biometrics for device security in situations where legal coercion to unlock devices may occur.
-**Reduce exposure to CCTV** | Advanced | Wear disguises and choose routes with fewer cameras to avoid surveillance.
-**Anti-Facial Recognition Clothing** | Advanced | Wear clothing with patterns that trick facial-recognition technology.
-**Reduce Night Vision Exposure** | Advanced | Use IR light sources or reflective glasses to obstruct night vision cameras.
-**Protect your DNA** | Advanced | Avoid sharing DNA with heritage websites and be cautious about leaving DNA traces.
+**Dikkatli Olun** | Temel | Çevrenizi dikkatlice gözlemleyin ve yeni ortamlarda olası riskleri değerlendirin.
+
+**Güvenli Çevre** | Temel | Kişisel bilgileri barındıran lokasyonların fiziksel güvenliğini sağlayın, dış erişimi en aza indirin ve sızma tespit sistemleri kullanın.
+**Fiziksel Güvenlik Önlemleri** | Temel | Kensington kilitleme cihazları, web kamerası kapakları ve gizlilik perdeleri gibi fiziksel güvenlik önlemleri kullanın.
+**Cihazları Doğrudan Görüşten Uzak Tutun** | Temel | Cihazların dışarıdan görülmesini engelleyerek lazer ve hırsızlık risklerini azaltın.
+**PIN'inizi Koruyun** | Temel | PIN girişinizi gözleyicilerden ve kameralardan koruyun ve dokunmatik ekranları kullanımdan sonra temizleyin.
+**Skimmer Kontrolü Yapın** | Temel | ATM'leri ve kamu cihazlarını kullanmadan önce skimmer cihazları ve manipülasyon işaretlerini kontrol edin.
+**Ev Adresinizi Koruyun** | İsteğe Bağlı | Ev adresinizi korumak için alternatif lokasyonlar, yönlendirme adresleri ve anonim ödeme yöntemleri kullanın.
+**PIN Kullanın, Biyometri Kullanmayın** | Gelişmiş | Cihaz güvenliğinde yasal zorlama durumlarında biyometri yerine PIN kullanmayı tercih edin.
+**CCTV Maruziyetini Azaltın** | Gelişmiş | Gözetimden kaçınmak için maskeler takın ve daha az kamera bulunan güzergahları tercih edin.
+**Yüz Tanıma Karşıtı Giysiler** | Gelişmiş | Yüz tanıma teknolojisini aldatan desenlerde giysiler giyin.
+**Gece Görüş Maruziyetini Azaltın** | Gelişmiş | Gece görüş kameralarını engellemek için IR ışık kaynakları veya yansıtıcı gözlükler kullanın.
+**DNA'nızı Koruyun** | Gelişmiş | DNA'nızı miras siteleriyle paylaşmaktan kaçının ve DNA izlerini bırakmada dikkatli olun.
 
 
 
@@ -482,35 +480,38 @@ personal documents to trace the source of a breach.
 
 ----
 
-#### There's an interactive version!
-- [Digital Defense](https://digital-defense.io) - View details, check items of, and track your progress
+#### Etkileşimli bir sürüm var!
+- [Dijital Savunma](https://digital-defense.io) - Detayları görüntüleyin, maddeleri kontrol edin ve ilerlemenizi takip edin
 
-#### Other Awesome Security Lists
-- @sbilly/[awesome-security](https://github.com/sbilly/awesome-security)
-- @0x4D31/[awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection)
-- @hslatman/[awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence)
-- @PaulSec/[awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks)
-- @Lissy93/[awesome-privacy](https://github.com/lissy93/awesime-privacy)
-- @Zbetcheckin/[security_list](https://github.com/zbetcheckin/Security_list)
-- Michael Horowitz / [defensivecomputingchecklist.com](https://defensivecomputingchecklist.com/)
+#### Diğer Harika Güvenlik Listeleri
+- @sbilly/[harika-guvenlik](https://github.com/sbilly/awesome-security)
+- @0x4D31/[harika-tehdit-tespiti](https://github.com/0x4D31/awesome-threat-detection)
+- @hslatman/[harika-tehdit-istihbarati](https://github.com/hslatman/awesome-threat-intelligence)
+- @PaulSec/[harika-guvenlik-konferanslari](https://github.com/PaulSec/awesome-sec-talks)
+- @Lissy93/[harika-gizlilik](https://github.com/lissy93/awesime-privacy)
+- @Zbetcheckin/[guvenlik_listesi](https://github.com/zbetcheckin/Security_list)
+- Michael Horowitz / [savunmacomputingkontrol.com](https://defensivecomputingchecklist.com/)
 
-[See More](/4_Privacy_And_Security_Links.md#other-github-security-lists)
+[Daha Fazla Görüntüle](/4_Privacy_And_Security_Links.md#other-github-security-lists)
 
 ----
+## Duyuru
 
-## Notes
+*Önemli Duyuru : Bu metin tamamen GPT-3.5 tarafından çevrilmiştir ve tam anlamıyla gerçeği yansıtmamış olabilir. Yazım hataları kesinlikle bulunabilir, lütfen sadece rehber amaçlı olarak kendi kontrolünüzle kullanın.
 
-*Thanks for visiting, hope you found something useful here :) Contributions are welcome, and much appreciated - to propose an edit [raise an issue](https://github.com/Lissy93/personal-security-checklist/issues/new/choose), or [open a PR](https://github.com/Lissy93/personal-security-checklist/pull/new/master). See: [`CONTRIBUTING.md`](/.github/CONTRIBUTING.md).*
+## Notlar
 
-*Disclaimer: This is not an exhaustive list, and aims only to be taken as guide.*
+*Ziyaretiniz için teşekkür ederiz, umarız burada yararlı bilgiler bulmuşsunuzdur :) Katkılarınızı bekliyoruz ve takdir ediyoruz - düzenleme önermek için [bir sorun açın](https://github.com/Lissy93/personal-security-checklist/issues/new/choose), veya [bir PR açın](https://github.com/Lissy93/personal-security-checklist/pull/new/master). Detaylar için: [`CONTRIBUTING.md`](/.github/CONTRIBUTING.md).*
 
-*Licensed under [Creative Commons, CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), © [Alicia Sykes](https://aliciasykes.com) 2020*
+*Not: Bu liste eksiksiz değildir ve sadece bir rehber olarak kabul edilmelidir.*
+
+*Creative Commons, CC BY 4.0 lisansı altında lisanslanmıştır, © [Alicia Sykes](https://aliciasykes.com) 2020*
 
 [![Attribution 4.0 International](https://licensebuttons.net/l/by/3.0/88x31.png)](/LICENSE.md)
 
 ---
 
-Help support the continued development of this project 💖
+Bu projenin sürekli gelişimine destek olmak için yardımcı olun 💖
 
 [![Sponsor Lissy93 on GitHub](https://img.shields.io/badge/Sponsor_on_GitHub-Lissy93-%23ff4dda?style=for-the-badge&logo=githubsponsors&logoColor=ff4dda)](https://github.com/sponsors/Lissy93)
 
