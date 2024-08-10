@@ -160,7 +160,7 @@ Eğer bir hacker e-postalarınıza erişirse, diğer hesaplarınızın (şifre s
 - [E-posta İstemcileri](https://github.com/Lissy93/awesome-privacy#email-clients)
 
 
-## Mesajlaşma
+## Güvenli Mesajlaşma
 
 
 
