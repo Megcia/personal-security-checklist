@@ -65,7 +65,7 @@ Verizon raporuna göre ([bu Verizon raporu](http://www.verizonenterprise.com/res
 - [İki Faktörlü Kimlik Doğrulama](https://github.com/Lissy93/awesome-privacy#2-factor-authentication)
 
 
-## Web Tarama
+## Web'de Gezinme
 
 İnternet üzerindeki çoğu web sitesi, genellikle kullanıcılarının davranışları ve tercihlerini anlamak için bir takip yöntemi kullanır. Bu veri oldukça detaylı olabilir ve şirketler, hükümetler ve fikri mülkiyet hırsızları için son derece değerlidir. Veri sızıntıları ve sızıntıları yaygındır ve kullanıcıların web etkinliklerini tanımlamak genellikle basit bir görevdir.
 
